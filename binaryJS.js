@@ -12,7 +12,7 @@ function setBinaryTime(){
     var sec = date.getSeconds();
     var binTime;
 
-    document.getElementById('time').innerHTML = 'Time: ' + hour + ':' + min + ':' + sec;
+    //document.getElementById('time').innerHTML = 'Time: ' + hour + ':' + min + ':' + sec;
 
     var dots = getDots();
     /*
